@@ -1388,9 +1388,9 @@
 		-ms-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		color: #3a3939;
-		text-shadow: 0 0 0.9px rgba(0, 0, 0, 0.25);
+		text-shadow: 0 0 0.9px rgba(0, 0, 0, 0.85);
 		text-decoration: none;
-		border-bottom: dotted 1px rgba(0, 0, 0, 0.5);
+		border-bottom: dotted 1px rgba(0, 0, 0, 0.85);
 	}
 
 		a:hover {
